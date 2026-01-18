@@ -11,13 +11,18 @@ app.use(express.json());
 
 const getProductsData = () => {
     try {
-        
-        const filePath = path.resolve(process.cwd(), 'data', 'products.json');
-        console.log("Looking for file at:", filePath); 
+   
+        const filePath = path.join(__dirname, 'data', 'products.json');
+
+        if (!fs.existsSync(filePath)) {
+            console.error("File not found at:", filePath);
+            return [];
+        }
 
         const fileData = fs.readFileSync(filePath, 'utf-8');
         return JSON.parse(fileData);
     } catch (err) {
+        console.error("Read error:", err);
         return [];
     }
 };
@@ -26,7 +31,7 @@ const getProductsData = () => {
 app.get('/products', (req, res) => {
     try {
         let products = getProductsData();
-        
+
         if (!products || products.length === 0) {
             return res.status(404).json({ message: "No products found or data file missing" });
         }
@@ -40,9 +45,9 @@ app.get('/products', (req, res) => {
 
         // Limit & Reverse Logic
         if (limit) {
-            products = products.slice(-parseInt(limit)).reverse(); 
+            products = products.slice(-parseInt(limit)).reverse();
         }
-        
+
         res.json(products);
     } catch (error) {
         res.status(500).json({ message: "Internal Server Error", error: error.message });
