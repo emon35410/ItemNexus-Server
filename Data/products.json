@@ -1,0 +1,482 @@
+[
+  {
+    "id": 1,
+    "name": "iPhone 15 Pro",
+    "price": 999,
+    "category": "Electronics",
+    "image": "https://images.unsplash.com/photo-1697284959152-32ef13855932?q=80&w=2080&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "description": "Experience the titanium design and A17 Pro chip for ultimate performance."
+  },
+  {
+    "id": 2,
+    "name": "Minimalist Leather Watch",
+    "price": 150,
+    "category": "Accessories",
+    "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=800",
+    "description": "Classic leather strap watch that fits perfectly with any formal or casual outfit."
+  },
+  {
+    "id": 3,
+    "name": "Canon EOS R5",
+    "price": 3899,
+    "category": "Photography",
+    "image": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?w=800",
+    "description": "Professional mirrorless camera with 45MP resolution and 8K video recording."
+  },
+  {
+    "id": 4,
+    "name": "Summer Floral Dress",
+    "price": 55,
+    "category": "Fashion",
+    "image": "https://images.unsplash.com/photo-1635283575884-da4996d8abe7?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "description": "Breathable cotton floral dress, perfect for summer vacations and beach days."
+  },
+  {
+    "id": 5,
+    "name": "MacBook Pro M3",
+    "price": 1999,
+    "category": "Laptops",
+    "image": "https://images.unsplash.com/photo-1595259515272-041c92aebaa6?q=80&w=387&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "description": "The most powerful laptop for pros, featuring the blazing-fast Apple M3 chip."
+  },
+  {
+    "id": 6,
+    "name": "Espresso Coffee Machine",
+    "price": 450,
+    "category": "Lifestyle",
+    "image": "https://images.unsplash.com/photo-1510972527921-ce03766a1cf1?w=800",
+    "description": "Brew barista-quality espresso at home with this sleek and compact machine."
+  },
+  {
+    "id": 7,
+    "name": "Sony WH-1000XM5",
+    "price": 349,
+    "category": "Electronics",
+    "image": "https://images.unsplash.com/photo-1618366712010-f4ae9c647dcb?w=800",
+    "description": "Industry-leading noise cancellation headphones with exceptional sound clarity."
+  },
+  {
+    "id": 8,
+    "name": "Casual Cotton Shirt",
+    "price": 45,
+    "category": "Fashion",
+    "image": "https://images.unsplash.com/photo-1759572095329-1dcf9522762b?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "description": "Premium 100% cotton shirt with a relaxed fit for everyday comfort."
+  },
+  {
+    "id": 9,
+    "name": "Luxury Chronograph",
+    "price": 250,
+    "category": "Accessories",
+    "image": "https://images.unsplash.com/photo-1524592094714-0f0654e20314?w=800",
+    "description": "Stainless steel chronograph watch with water resistance and premium finish."
+  },
+  {
+    "id": 10,
+    "name": "Dell XPS 13",
+    "price": 1299,
+    "category": "Laptops",
+    "image": "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?w=800",
+    "description": "Ultra-thin Windows laptop with a stunning InfinityEdge display and high portability."
+  },
+  {
+    "id": 11,
+    "name": "DJI Mavic 3 Pro",
+    "price": 2199,
+    "category": "Photography",
+    "image": "https://images.unsplash.com/photo-1508614589041-895b88991e3e?w=800",
+    "description": "Triple camera system drone for capturing cinema-grade aerial footage."
+  },
+  {
+    "id": 12,
+    "name": "Smart Scale Pro",
+    "price": 75,
+    "category": "Lifestyle",
+    "image": "https://images.unsplash.com/photo-1591195853828-11db59a44f6b?w=800",
+    "description": "Monitor your health with 13 body composition metrics synced to your phone."
+  },
+  {
+    "id": 13,
+    "name": "Logitech G Pro Mouse",
+    "price": 129,
+    "category": "Electronics",
+    "image": "https://images.unsplash.com/photo-1527864550417-7fd91fc51a46?w=800",
+    "description": "The world's most popular gaming mouse, designed with pro-gamers."
+  },
+  {
+    "id": 14,
+    "name": "Leather Jacket",
+    "price": 120,
+    "category": "Fashion",
+    "image": "https://images.unsplash.com/photo-1551028719-00167b16eac5?w=800",
+    "description": "Classic black biker jacket made from high-quality vegan leather."
+  },
+  {
+    "id": 15,
+    "name": "Silver Link Bracelet",
+    "price": 120,
+    "category": "Accessories",
+    "image": "https://images.unsplash.com/photo-1515562141207-7a88fb7ce338?w=800",
+    "description": "Elegant sterling silver bracelet with a modern link design for any occasion."
+  },
+  {
+    "id": 16,
+    "name": "Gaming Laptop RGB",
+    "price": 1500,
+    "category": "Laptops",
+    "image": "https://images.unsplash.com/photo-1603302576837-37561b2e2302?w=800",
+    "description": "High-end gaming laptop with RTX graphics and custom RGB lighting."
+  },
+  {
+    "id": 17,
+    "name": "Fujifilm X-T5",
+    "price": 1699,
+    "category": "Photography",
+    "image": "https://images.unsplash.com/photo-1502920917128-1aa500764cbd?w=800",
+    "description": "Retro-styled mirrorless camera with modern internals for street photography."
+  },
+  {
+    "id": 18,
+    "name": "Indoor Green Plant",
+    "price": 25,
+    "category": "Lifestyle",
+    "image": "https://images.unsplash.com/photo-1485955900006-10f4d324d411?w=800",
+    "description": "A beautiful air-purifying plant that comes in a designer ceramic pot."
+  },
+  {
+    "id": 19,
+    "name": "Mechanical Keyboard",
+    "price": 89,
+    "category": "Electronics",
+    "image": "https://images.unsplash.com/photo-1511467687858-23d96c32e4ae?w=800",
+    "description": "Customizable RGB mechanical keyboard with blue switches for tactile feedback."
+  },
+  {
+    "id": 20,
+    "name": "Denim Jeans Blue",
+    "price": 65,
+    "category": "Fashion",
+    "image": "https://images.unsplash.com/photo-1542272604-787c3835535d?w=800",
+    "description": "Durable slim-fit denim jeans with a classic five-pocket design."
+  },
+  {
+    "id": 21,
+    "name": "Canvas Backpack",
+    "price": 85,
+    "category": "Accessories",
+    "image": "https://images.unsplash.com/photo-1724253275111-fe0fa7611ffe?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjB8fENhbnZhcyUyMEJhY2twYWNrfGVufDB8fDB8fHww",
+    "description": "Stylish and spacious canvas backpack with a dedicated laptop sleeve."
+  },
+  {
+    "id": 22,
+    "name": "ThinkPad X1 Carbon",
+    "price": 1450,
+    "category": "Laptops",
+    "image": "https://images.unsplash.com/photo-1588872657578-7efd1f1555ed?w=800",
+    "description": "The ultimate business laptop, known for its carbon fiber durability."
+  },
+  {
+    "id": 23,
+    "name": "Vintage Film Camera",
+    "price": 350,
+    "category": "Photography",
+    "image": "https://images.unsplash.com/photo-1495707902641-75cac588d2e9?w=800",
+    "description": "A fully functional vintage camera for fans of classic 35mm film photography."
+  },
+  {
+    "id": 24,
+    "name": "Yoga Mat Premium",
+    "price": 35,
+    "category": "Lifestyle",
+    "image": "https://images.unsplash.com/photo-1579016749257-3f5205b5e5ae?q=80&w=435&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "description": "Eco-friendly non-slip yoga mat with extra cushioning for joints."
+  },
+  {
+    "id": 25,
+    "name": "Bose Soundbar 700",
+    "price": 799,
+    "category": "Electronics",
+    "image": "https://images.unsplash.com/photo-1558002038-1055907df827?w=800",
+    "description": "Premium smart soundbar with built-in voice control and deep bass."
+  },
+  {
+    "id": 26,
+    "name": "Sneaker Sport Shoes",
+    "price": 95,
+    "category": "Fashion",
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=800",
+    "description": "Lightweight athletic sneakers with responsive cushioning for running."
+  },
+  {
+    "id": 27,
+    "name": "Leather Bi-fold Wallet",
+    "price": 50,
+    "category": "Accessories",
+    "image": "https://images.unsplash.com/photo-1627123424574-724758594e93?w=800",
+    "description": "Handcrafted genuine leather wallet with RFID blocking protection."
+  },
+  {
+    "id": 28,
+    "name": "Acer Swift Go",
+    "price": 799,
+    "category": "Laptops",
+    "image": "https://i.pinimg.com/736x/cc/92/ff/cc92ffd0e4612992d2bccfc2e618709a.jpg",
+    "description": "Thin and light laptop with an OLED display and great battery life."
+  },
+  {
+    "id": 29,
+    "name": "Wide Angle Lens",
+    "price": 899,
+    "category": "Photography",
+    "image": "https://images.unsplash.com/photo-1617005082133-548c4dd27f35?w=800",
+    "description": "Perfect lens for landscapes and architectural photography."
+  },
+  {
+    "id": 30,
+    "name": "Electric Kettle Steel",
+    "price": 60,
+    "category": "Lifestyle",
+    "image": "https://plus.unsplash.com/premium_photo-1661393006642-5251db4237cb?q=80&w=387&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "description": "Fast-boiling stainless steel kettle with auto shut-off safety features."
+  },
+  {
+    "id": 31,
+    "name": "Samsung S24 Ultra",
+    "price": 1199,
+    "category": "Electronics",
+    "image": "https://images.unsplash.com/photo-1610945265064-0e34e5519bbf?w=800",
+    "description": "The peak of mobile tech with a built-in S Pen and 200MP camera."
+  },
+  {
+    "id": 32,
+    "name": "Woolen Overcoat",
+    "price": 180,
+    "category": "Fashion",
+    "image": "https://images.unsplash.com/photo-1608236159447-2d27116777f3?q=80&w=370&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "description": "Premium woolen coat to keep you warm and stylish during winter."
+  },
+  {
+    "id": 33,
+    "name": "Designer Handbag",
+    "price": 450,
+    "category": "Accessories",
+    "image": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?w=800",
+    "description": "High-fashion designer handbag crafted from premium grain leather."
+  },
+  {
+    "id": 34,
+    "name": "Surface Pro 9",
+    "price": 999,
+    "category": "Laptops",
+    "image": "https://i.pinimg.com/1200x/4e/b3/41/4eb341c9ad5689670d41894731ea6d6e.jpg",
+    "description": "A tablet that can replace your laptop, featuring powerful Intel processors."
+  },
+  {
+    "id": 35,
+    "name": "Studio Ring Light",
+    "price": 120,
+    "category": "Photography",
+    "image": "https://plus.unsplash.com/premium_photo-1677631643548-b930d56f9342?q=80&w=387&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "description": "Professional LED ring light for content creators and makeup artists."
+  },
+  {
+    "id": 36,
+    "name": "Ceramic Pot Set",
+    "price": 85,
+    "category": "Lifestyle",
+    "image": "https://i.pinimg.com/736x/89/49/21/89492187ffb02fe69ef79fec4002efd5.jpg",
+    "description": "Set of three handcrafted ceramic pots for your indoor garden."
+  },
+  {
+    "id": 37,
+    "name": "iPad Air M2",
+    "price": 599,
+    "category": "Electronics",
+    "image": "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?w=800",
+    "description": "Stunning design and incredible performance with the Apple M2 chip."
+  },
+  {
+    "id": 38,
+    "name": "Formal Black Suit",
+    "price": 250,
+    "category": "Fashion",
+    "image": "https://plus.unsplash.com/premium_photo-1661308219954-a8035fbeb546?q=80&w=387&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "description": "Sharp slim-fit black suit perfect for weddings and business meetings."
+  },
+  {
+    "id": 39,
+    "name": "Travel Duffel Bag",
+    "price": 110,
+    "category": "Accessories",
+    "image": "https://images.unsplash.com/photo-1547949003-9792a18a2601?w=800",
+    "description": "Large capacity duffel bag for weekend trips and gym sessions."
+  },
+  {
+    "id": 40,
+    "name": "MacBook Air M2",
+    "price": 1099,
+    "category": "Laptops",
+    "image": "https://images.unsplash.com/photo-1611186871348-b1ce696e52c9?w=800",
+    "description": "Thinnest and lightest laptop with all-day battery life and M2 speed."
+  },
+  {
+    "id": 41,
+    "name": "Camera Tripod Carbon",
+    "price": 150,
+    "category": "Photography",
+    "image": "https://i.pinimg.com/736x/02/98/6b/02986b008cd0abf00a92748e1b2b1775.jpg",
+    "description": "Ultra-light carbon fiber tripod with a panoramic ball head."
+  },
+  {
+    "id": 42,
+    "name": "Minimalist Desk Lamp",
+    "price": 55,
+    "category": "Lifestyle",
+    "image": "https://plus.unsplash.com/premium_photo-1682708835420-1498857971f3?q=80&w=484&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "description": "Dimmable LED desk lamp with a built-in wireless charger."
+  },
+  {
+    "id": 43,
+    "name": "AirPods Max",
+    "price": 549,
+    "category": "Electronics",
+    "image": "https://images.unsplash.com/photo-1613040809024-b4ef7ba99bc3?w=800",
+    "description": "High-fidelity audio meets industry-leading active noise cancellation."
+  },
+  {
+    "id": 44,
+    "name": "Silk Scarf Luxury",
+    "price": 35,
+    "category": "Fashion",
+    "image": "https://images.unsplash.com/photo-1609803384069-19f3e5a70e75?q=80&w=435&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "description": "Elegant pure silk scarf with a unique hand-painted artistic pattern."
+  },
+  {
+    "id": 45,
+    "name": "Ray-Ban Aviator",
+    "price": 160,
+    "category": "Accessories",
+    "image": "https://images.unsplash.com/photo-1572635196237-14b3f281503f?w=800",
+    "description": "Iconic aviator sunglasses with gold frame and green classic lenses."
+  },
+  {
+    "id": 46,
+    "name": "Razer Blade 15",
+    "price": 2499,
+    "category": "Laptops",
+    "image": "https://images.unsplash.com/photo-1525547719571-a2d4ac8945e2?w=800",
+    "description": "Ultimate gaming laptop with high-refresh rate screen and CNC chassis."
+  },
+  {
+    "id": 47,
+    "name": "Instax Mini 12",
+    "price": 79,
+    "category": "Photography",
+    "image": "https://i.pinimg.com/1200x/7f/a6/64/7fa664bd79f54190e42cedb27cbcfa2f.jpg",
+    "description": "Instant camera that captures memories and prints them on the spot."
+  },
+  {
+    "id": 48,
+    "name": "Hydro Flask Bottle",
+    "price": 40,
+    "category": "Lifestyle",
+    "image": "https://images.unsplash.com/photo-1585975766936-6eaae1596918?q=80&w=387&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "description": "Insulated water bottle that keeps drinks cold for 24 hours."
+  },
+  {
+    "id": 49,
+    "name": "GoPro HERO 11",
+    "price": 349,
+    "category": "Electronics",
+    "image": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?w=800",
+    "description": "Action camera with cinematic 5.3K video and waterproof design."
+  },
+  {
+    "id": 50,
+    "name": "Puffer Winter Vest",
+    "price": 75,
+    "category": "Fashion",
+    "image": "https://images.unsplash.com/photo-1591047139829-d91aecb6caea?w=800",
+    "description": "Sleeveless puffer jacket for perfect layering during cold days."
+  },
+  {
+    "id": 51,
+    "name": "Blue Light Glasses",
+    "price": 45,
+    "category": "Accessories",
+    "image": "https://images.unsplash.com/photo-1574258495973-f010dfbb5371?w=800",
+    "description": "Protect your eyes from digital strain with these stylish glasses."
+  },
+  {
+    "id": 52,
+    "name": "HP Spectre x360",
+    "price": 1350,
+    "category": "Laptops",
+    "image": "https://i.pinimg.com/1200x/b0/05/4d/b0054dde776217968422c38ab6693eb8.jpg",
+    "description": "Versatile 2-in-1 laptop with a premium gem-cut design."
+  },
+  {
+    "id": 53,
+    "name": "Photography Softbox",
+    "price": 200,
+    "category": "Photography",
+    "image": "https://i.pinimg.com/736x/39/ec/6a/39ec6ae1edd4b33004311a322752f673.jpg",
+    "description": "Professional lighting kit for smooth and shadow-free photography."
+  },
+  {
+    "id": 54,
+    "name": "Memory Foam Pillow",
+    "price": 45,
+    "category": "Lifestyle",
+    "image": "https://i.pinimg.com/736x/9a/c6/a5/9ac6a567417c2fb5334dc2e3c90c0a33.jpg",
+    "description": "Ergonomic pillow designed for better neck support and sleep."
+  },
+  {
+    "id": 55,
+    "name": "Nintendo Switch OLED",
+    "price": 349,
+    "category": "Electronics",
+    "image": "https://images.unsplash.com/photo-1578303512597-81e6cc155b3e?w=800",
+    "description": "Handheld console with a vibrant OLED screen and versatile play modes."
+  },
+  {
+    "id": 56,
+    "name": "Classic Polo T-shirt",
+    "price": 30,
+    "category": "Fashion",
+    "image": "https://images.unsplash.com/photo-1581655353564-df123a1eb820?w=800",
+    "description": "Essential polo shirt with a slim fit and breathable fabric."
+  },
+  {
+    "id": 57,
+    "name": "Knit Beanie Hat",
+    "price": 25,
+    "category": "Accessories",
+    "image": "https://i.pinimg.com/736x/61/e9/3f/61e93f5d74da0b3424187248903a9603.jpg",
+    "description": "Soft and warm knitted beanie for those chilly winter mornings."
+  },
+  {
+    "id": 58,
+    "name": "Asus ROG Zephyrus",
+    "price": 2200,
+    "category": "Laptops",
+    "image": "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?w=800",
+    "description": "Thin gaming powerhouse with a high-end display and cooling system."
+  },
+  {
+    "id": 59,
+    "name": "Sony A7 III",
+    "price": 1999,
+    "category": "Photography",
+    "image": "https://images.unsplash.com/photo-1516724562728-afc824a36e84?w=800",
+    "description": "The perfect hybrid camera for both professional photos and videos."
+  },
+  {
+    "id": 60,
+    "name": "Essential Oil Diffuser",
+    "price": 40,
+    "category": "Lifestyle",
+    "image": "https://images.unsplash.com/photo-1602928321679-560bb453f190?w=800",
+    "description": "Ultrasonic diffuser with LED light for a relaxing aromatherapy experience."
+  }
+]
