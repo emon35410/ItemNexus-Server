@@ -12,7 +12,7 @@ app.use(express.json());
 const getProductsData = () => {
     try {
    
-        const filePath = path.join(__dirname, 'data', 'products.json');
+        const filePath = path.join(__dirname, 'Data', 'products.json');
 
         if (!fs.existsSync(filePath)) {
             console.error("File not found at:", filePath);
