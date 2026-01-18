@@ -11,17 +11,13 @@ app.use(express.json());
 
 const getProductsData = () => {
     try {
-        const filePath = path.join(process.cwd(), 'data', 'products.json');
         
-        if (!fs.existsSync(filePath)) {
-            console.error("❌ products.json not found at:", filePath);
-            return [];
-        }
+        const filePath = path.resolve(process.cwd(), 'data', 'products.json');
+        console.log("Looking for file at:", filePath); 
 
         const fileData = fs.readFileSync(filePath, 'utf-8');
         return JSON.parse(fileData);
     } catch (err) {
-        console.error("❌ Error reading products.json:", err);
         return [];
     }
 };
